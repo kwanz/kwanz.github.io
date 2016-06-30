@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://kwanz.github.io
 title: Z Kwan
-tagline: 15 minutes later I still haven't got a cool tag line
-description: My awesome new site
+tagline: tech notes and random thoughts
+description: I tried to put some great song lyrics in the description, but I just couldn't remember the one that I used to have in mind
 paginate: 5
