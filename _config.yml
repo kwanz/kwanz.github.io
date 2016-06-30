@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kwanz.github.io
+title: Z Kwan
+tagline: 15 minutes later I still haven't got a cool tag line
+description: My awesome new site
+paginate: 5
